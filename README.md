@@ -41,5 +41,4 @@ En este caso es necesario tener el bash de Git o algún terminal que soporte SSH
 
 ## Enviar un release
 
-## probando un hotfix
 
