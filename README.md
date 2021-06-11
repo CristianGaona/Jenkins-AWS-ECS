@@ -37,4 +37,7 @@ Se puede visualizar el estado en ejecucón y la IP pública para el acceso al in
 ## Entrar a la instancia vis SSH
 En este caso es necesario tener el bash de Git o algún terminal que soporte SSH, abrimos la terminal en la ruta donde se descargo la llave de acceso y ejcutamos el siguiente comando para entrar ssh -i servidor-jenkins.pem ubuntu@18.205.66.202
 
+## Comprobando GitFlow
+
+## Enviar un release
 
