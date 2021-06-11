@@ -39,3 +39,5 @@ En este caso es necesario tener el bash de Git o algún terminal que soporte SSH
 
 ## Comprobando GitFlow
 
+## Enviar un release
+
